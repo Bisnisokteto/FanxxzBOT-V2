@@ -1,8 +1,8 @@
 {
     "ownerNumber": "6288223674569@s.whatsapp.net", 
-    "ownerName": "DikaaOfc", 
-    "botName": "FanxxzBOT-STORE",
-    "footer": "© FanxxzBOT | BOTMD-2022", 
+    "ownerName": "Ryan", 
+    "botName": "Ryann-MD",
+    "footer": "© RyannBOT | BOTMD-2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -31,6 +31,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "DikaaOfc"
+        "author": "RyannBOT"
     }
 }
